@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as s,a as o}from"./index-cf27eae1.js";const c={},a={class:"about"},_=o("h1",{class:"text-4xl italic"},"This is an about page",-1),n=[_];function i(r,d){return t(),s("div",a,n)}const f=e(c,[["render",i]]);export{f as default};
